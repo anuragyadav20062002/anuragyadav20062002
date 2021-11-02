@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with ...DSA
 - 💬 Ask me about ... Full Stack Dev
 - 📫 How to reach me: ... email(anuragyadav20062002@gmail.cm)
-- ⚡ Fun fact: ... I am a state level player(kabbadi)☺
+- ⚡ Fun fact: ... I love sports more than anything.
 -->

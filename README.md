@@ -1,1 +1,7 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anuragyadav20062002&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<h2>Full Stack Developer</h2>
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragyadav20062002&show_icons=true&theme=gruvbox" height=175/>
+</span>
+<span href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragyadav20062002&layout=compact&theme=gruvbox" height=175/>
+</span>
